@@ -1,9 +1,11 @@
+
 <a href="https://github.com/VoltAgent/voltagent">
-     <img width="1500"  alt="claude-skills" src="https://github.com/user-attachments/assets/d012a0d2-cec3-4630-ba5e-acc339dbe6cf" />
+<img width="1500"  alt="claude-design" src="https://github.com/user-attachments/assets/c679bd35-ba7e-4d6f-834d-3f4b6e5a35e4" />
 </a>
 
 <br/>
 <br/>
+
 
 <div align="center">
     <strong>A collection of ready-to-use <code>DESIGN.md</code> files that Claude Design expands into a full UI scaffold with one drop.</strong>
@@ -68,6 +70,12 @@ Claude Design can use `DESIGN.md` as its source of truth. Hand it one, and the f
    Go to [claude.ai/design](https://claude.ai/design), create a new prototype, attach the `DESIGN.md` in the chat, and type: **"Create a design system from this DESIGN.md"**
 
 ![setup-b](https://pub-2e4ecbcbc9b24e7b93f1a6ab5b2bc71f.r2.dev/video/option-b.gif)
+
+
+<img width="848" height="480" alt="option-b" src="https://github.com/user-attachments/assets/c7e3c22c-fd3d-41a2-a6d0-1a50b40e22c9" />
+
+
+
 
 Either way, Claude produces a full starter package in minutes:
 
