@@ -59,7 +59,8 @@ Claude Design can use `DESIGN.md` as its source of truth. Hand it one, and the f
 1. Pick a design system inspiration from the list below, click through to its preview page to inspect the system in detail, then download its `DESIGN.md`.
 2. Open [Claude Design](https://claude.ai/design). You've got **two ways** to feed it the file:
 
-- **Option A. Start from a design system**
+### Option A. Start from a design system
+
    Go to [claude.ai/design/#org](https://claude.ai/design/#org), click **Create new design system**, and on the *Set up your design system* screen, upload the `DESIGN.md` under **Add assets**.
 
 ![setup-a](https://github.com/user-attachments/assets/93846ec2-c159-4459-b434-8acb7ac5fcfe)
@@ -67,7 +68,7 @@ Claude Design can use `DESIGN.md` as its source of truth. Hand it one, and the f
 
 <br/>
 
-- **Option B. Start from a prototype**
+### Option B. Start from a prototype
    Go to dashboard, create a new prototype, attach the `DESIGN.md` in the chat, and type: **"Create a design system from this DESIGN.md"**
 
 
