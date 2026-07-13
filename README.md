@@ -74,6 +74,12 @@ These are educational, unofficial, public-pattern-inspired examples. They are no
 
 Use them to see how photography and imagery can be defined as part of the system rather than bolted on later.
 
+## Rendered Previews
+
+Static previews live in [docs](docs/index.html), so the repo can be published with GitHub Pages later.
+
+- [Nike-Inspired Preview](docs/nike/index.html)
+
 ## Guides
 
 - [Creative System Checklist](guides/creative-system-checklist.md)
