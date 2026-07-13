@@ -2,35 +2,24 @@
 
 Unofficial educational example inspired by publicly observable premium consumer technology creative patterns.
 
-## 1. Brand Position & Creative Thesis
+## 1. Visual Theme & Atmosphere
+
+### Overall Feel
+Precise, spacious, premium, calm, luminous.
 
 ### Brand Role
 Make advanced technology feel inevitable, simple, tactile, and desirable.
 
-### Audience
+### Audience Context
 Consumers, professionals, and creators who value clarity, craft, performance, privacy, and status without visual clutter.
 
 ### Creative Thesis
 Let the product and its experience speak with extreme clarity.
 
-### Brand Tension
-Technical sophistication balanced with human simplicity.
-
-## 2. Visual Theme & Atmosphere
-
-### Overall Feel
-Precise, spacious, premium, calm, luminous.
-
-### Energy Level
-Controlled and cinematic. High drama is allowed, but only through product, light, and scale.
-
-### Density
-Sparse. Each section should have one clear idea.
-
 ### Signature Moves
-Monumental product renders, white space, soft gradients from real light, macro material shots, centered compositions, crisp type hierarchy.
+Monumental product renders, white space, soft gradients from real light, macro material shots, centered compositions, and crisp type hierarchy.
 
-## 3. Color Palette & Roles
+## 2. Color Palette & Roles
 
 | Token | Hex | Role |
 |---|---|---|
@@ -46,7 +35,7 @@ Use color with restraint. Product color, display content, and photography should
 ### Image + Color Relationship
 Imagery should feel integrated with the canvas. Avoid loud overlays unless they are tied to product display or environment.
 
-## 4. Typography Rules
+## 3. Typography Rules
 
 ### Type Personality
 Clear, confident, precise, quiet.
@@ -66,21 +55,7 @@ Use a clean system sans. Prioritize legibility and hierarchy over decorative per
 ### Type Over Images
 Use only when contrast is flawless. Prefer type above or below product imagery unless the visual has intentional empty space.
 
-## 5. Layout Principles
-
-### Composition
-Center the product, then vary rhythm with detail sections, side-by-side feature modules, and immersive product moments.
-
-### Spacing
-Generous. Silence is part of the system.
-
-### Cropping & Framing
-Use precise product crops: edge, port, material, screen, hand scale, camera detail, hinge, texture.
-
-### Responsive Behavior
-On mobile, preserve product recognizability and headline clarity before preserving desktop layout symmetry.
-
-## 6. Component Styling
+## 4. Component Stylings
 
 ### Buttons
 Minimal rounded CTAs, blue links, simple text links. No decorative button treatments.
@@ -97,7 +72,66 @@ Plain, clear, polished.
 ### Data / Proof Modules
 Use performance charts, spec comparisons, feature callouts, privacy notes, and ecosystem connections.
 
-## 7. Photography & Imagery System
+## 5. Layout Principles
+
+### Composition
+Center the product, then vary rhythm with detail sections, side-by-side feature modules, and immersive product moments.
+
+### Spacing
+Generous. Silence is part of the system.
+
+### Cropping & Framing
+Use precise product crops: edge, port, material, screen, hand scale, camera detail, hinge, texture.
+
+### Page Rhythm
+One idea per section. Move from iconic hero to feature proof to comparison and purchase clarity.
+
+## 6. Depth & Elevation
+
+### Surface Model
+Minimal, luminous, and product-led. Depth comes from controlled light, reflection, and product geometry.
+
+### Shadows / Borders / Dividers
+Use almost invisible dividers and subtle shadows only when needed for clarity.
+
+### Media Depth
+Use screen glow, edge light, reflections, and macro detail to make the product dimensional.
+
+## 7. Do's and Don'ts
+
+### Do
+
+- Give product imagery enough space to feel premium.
+- Use light, material, and scale as the emotional tools.
+- Keep every section focused on one idea.
+
+### Don't
+
+- Use busy backgrounds or generic office stock.
+- Add decorative UI flourishes.
+- Overload product pages with competing claims.
+
+## 8. Responsive Behavior
+
+### Desktop
+Use large centered product moments, wide negative space, and elegant feature pacing.
+
+### Tablet
+Preserve product scale and reduce secondary copy.
+
+### Mobile
+Preserve product recognizability and headline clarity before preserving desktop symmetry.
+
+### Social / Fixed-Format Crops
+Keep the product or use case instantly recognizable, with minimal text.
+
+## 9. Agent Prompt Guide
+
+```text
+Create premium product creative from this system. Prioritize product clarity, white space, controlled light, precise typography, and restrained interaction. Avoid generic tech stock imagery.
+```
+
+## 10. Photography & Imagery System
 
 ### Imagery Role
 Imagery makes technology tangible. It should show craft, scale, interaction, and the emotional payoff of simplicity.
@@ -129,7 +163,7 @@ Use minimal icons and abstract visuals only to explain technology, privacy, perf
 ### Image Quality Bar
 Every image should feel intentional enough to be a product launch frame.
 
-## 8. Social Creative System
+## 11. Social Creative System
 
 ### Paid Social
 One product, one benefit, one clean CTA. Lead with product recognizability or a clear use case.
@@ -146,7 +180,7 @@ Use product closeups, interaction moments, and legible benefit text in safe zone
 ### Platform Behavior
 Instagram can be cinematic and product-led. YouTube thumbnails can use stronger product scale. LinkedIn can emphasize productivity, security, and professional workflows.
 
-## 9. Website Creative System
+## 12. Website Creative System
 
 ### Hero Sections
 Product first. Large headline, clean CTA, immersive product image or controlled animation.
@@ -163,7 +197,7 @@ Comparison, pricing, trade-in, financing, support, and ecosystem benefits should
 ### Galleries
 Use product family rhythm, macro details, screen contexts, and lifestyle proof sparingly.
 
-## 10. Motion & Interaction
+## 13. Motion & Interaction
 
 ### Motion Mood
 Smooth, precise, premium.
@@ -174,7 +208,7 @@ Use subtle fades, product reveals, scroll-tied transitions, and precise easing.
 ### Media Motion
 Product rotations, exploded views, screen transitions, and macro detail reveals.
 
-## 11. Voice In Visual Context
+## 14. Voice In Visual Context
 
 ### Copy + Visual Relationship
 Copy should simplify what the visual proves.
@@ -185,26 +219,6 @@ Short, polished, benefit-led, occasionally iconic.
 ### Caption Style
 Exact and restrained.
 
-## 12. Do / Don't Rules
-
-### Do
-
-- Give product imagery enough space to feel premium.
-- Use light, material, and scale as the emotional tools.
-- Keep every section focused on one idea.
-
-### Don't
-
-- Use busy backgrounds or generic office stock.
-- Add decorative UI flourishes.
-- Overload product pages with competing claims.
-
-## 13. Quality Bar & Review Checklist
+## 15. Quality Bar & Review Checklist
 
 The asset should feel calm, precise, and premium. If the product does not feel like the hero, the composition is wrong.
-
-## 14. Agent Prompt Guide
-
-```text
-Create premium product creative from this system. Prioritize product clarity, white space, controlled light, precise typography, and restrained interaction. Avoid generic tech stock imagery.
-```

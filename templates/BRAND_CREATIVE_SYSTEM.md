@@ -1,38 +1,27 @@
 # Brand Creative System `DESIGN.md`
 
-Use this template to define a brand system that can guide websites, social creative, ads, decks, product storytelling, and UI scaffolds.
+Use this template to define a brand system that stays compatible with the original `DESIGN.md` structure, then adds creative direction for photography, social assets, websites, motion, and review.
 
 Replace bracketed guidance with brand-specific rules. Keep the language concrete. Agents need decisions, not vibes.
 
-## 1. Brand Position & Creative Thesis
+## 1. Visual Theme & Atmosphere
+
+### Overall Feel
+[3-6 grounded adjectives with explanation.]
 
 ### Brand Role
 [What the brand helps people do, feel, understand, or become.]
 
-### Audience
+### Audience Context
 [Primary audience, emotional state, sophistication level, objections, and what they need to believe.]
 
 ### Creative Thesis
 [One sentence that explains the creative point of view. Example: "Make technical capability feel calm, human, and immediately usable."]
 
-### Brand Tension
-[The two forces the brand balances. Example: "premium but warm", "technical but playful", "fast but trustworthy".]
-
-## 2. Visual Theme & Atmosphere
-
-### Overall Feel
-[3-6 grounded adjectives with explanation.]
-
-### Energy Level
-[Quiet, high-energy, editorial, cinematic, utilitarian, luxurious, playful, etc.]
-
-### Density
-[Sparse, moderate, information-rich, campaign-style, dashboard-dense.]
-
 ### Signature Moves
 [Repeatable visual behaviors: full-bleed photos, large type over image, split proof modules, product closeups, tactile shadows, editorial grids.]
 
-## 3. Color Palette & Roles
+## 2. Color Palette & Roles
 
 ### Core Colors
 
@@ -50,7 +39,7 @@ Replace bracketed guidance with brand-specific rules. Keep the language concrete
 ### Image + Color Relationship
 [How photography interacts with color: warm grade, neutral whites, high contrast, muted color, accent overlays, colored backdrops.]
 
-## 4. Typography Rules
+## 3. Typography Rules
 
 ### Type Personality
 [What typography should communicate.]
@@ -70,21 +59,7 @@ Replace bracketed guidance with brand-specific rules. Keep the language concrete
 ### Type Over Images
 [Rules for contrast, placement, scrims, alignment, and when not to place text over imagery.]
 
-## 5. Layout Principles
-
-### Composition
-[Grid, asymmetry, centered layouts, editorial flow, product-first hierarchy.]
-
-### Spacing
-[Breathing room, compactness, rhythm, section pacing.]
-
-### Cropping & Framing
-[How layout crops photos, product shots, screenshots, portraits, and lifestyle images.]
-
-### Responsive Behavior
-[How the system changes on mobile, tablet, and desktop.]
-
-## 6. Component Styling
+## 4. Component Stylings
 
 ### Buttons
 [Shape, size, contrast, states, icon usage, CTA hierarchy.]
@@ -101,7 +76,80 @@ Replace bracketed guidance with brand-specific rules. Keep the language concrete
 ### Data / Proof Modules
 [Metrics, testimonials, quotes, press, charts, logos, social proof.]
 
-## 7. Photography & Imagery System
+## 5. Layout Principles
+
+### Composition
+[Grid, asymmetry, centered layouts, editorial flow, product-first hierarchy.]
+
+### Spacing
+[Breathing room, compactness, rhythm, section pacing.]
+
+### Cropping & Framing
+[How layout crops photos, product shots, screenshots, portraits, and lifestyle images.]
+
+### Page Rhythm
+[How sections alternate between image, text, proof, product, and conversion.]
+
+## 6. Depth & Elevation
+
+### Surface Model
+[Flat, layered, glassy, tactile, editorial paper, cinematic depth, or utility-first.]
+
+### Shadows / Borders / Dividers
+[When to use each and how strong they should be.]
+
+### Media Depth
+[How imagery, overlays, scrims, and foreground objects create depth.]
+
+## 7. Do's and Don'ts
+
+### Do
+
+- [Concrete rule]
+- [Concrete rule]
+- [Concrete rule]
+
+### Don't
+
+- [Concrete anti-pattern]
+- [Concrete anti-pattern]
+- [Concrete anti-pattern]
+
+## 8. Responsive Behavior
+
+### Desktop
+[How large screens use whitespace, imagery, navigation, and type scale.]
+
+### Tablet
+[How grids collapse and media modules resize.]
+
+### Mobile
+[How the first visual signal, touch targets, type, and image crops behave.]
+
+### Social / Fixed-Format Crops
+[How the system adapts to square, vertical, story, thumbnail, and carousel formats.]
+
+## 9. Agent Prompt Guide
+
+When using this file with an agent, say:
+
+```text
+Use this DESIGN.md as binding art direction. Follow the original design-system sections first, then apply the expanded brand creative guidance for imagery, social creative, website usage, motion, and quality review.
+```
+
+For social creative:
+
+```text
+Create three paid social static concepts from this DESIGN.md. Each concept should include layout direction, photography direction, headline, supporting copy, CTA, and rationale.
+```
+
+For websites:
+
+```text
+Create a responsive landing page from this DESIGN.md. Use the photography and imagery system to decide hero media, product sections, proof modules, and conversion moments.
+```
+
+## 10. Photography & Imagery System
 
 ### Imagery Role
 [What imagery does for the brand: proof, aspiration, instruction, emotion, scale, clarity, trust.]
@@ -133,7 +181,7 @@ Replace bracketed guidance with brand-specific rules. Keep the language concrete
 ### Image Quality Bar
 [What makes an image acceptable or unacceptable.]
 
-## 8. Social Creative System
+## 11. Social Creative System
 
 ### Paid Social
 [Rules for static ads, hooks, visual hierarchy, product visibility, offer placement, proof, disclaimers.]
@@ -150,7 +198,7 @@ Replace bracketed guidance with brand-specific rules. Keep the language concrete
 ### Platform Behavior
 [How the system changes for Instagram, TikTok, Facebook, LinkedIn, X, Pinterest, YouTube.]
 
-## 9. Website Creative System
+## 12. Website Creative System
 
 ### Hero Sections
 [Photo/video/product usage, headline placement, CTA hierarchy, trust signals.]
@@ -167,7 +215,7 @@ Replace bracketed guidance with brand-specific rules. Keep the language concrete
 ### Galleries
 [Image rhythm, captions, masonry/grid behavior, lightbox or no lightbox.]
 
-## 10. Motion & Interaction
+## 13. Motion & Interaction
 
 ### Motion Mood
 [Fast, subtle, cinematic, playful, restrained, tactile.]
@@ -178,7 +226,7 @@ Replace bracketed guidance with brand-specific rules. Keep the language concrete
 ### Media Motion
 [Video loops, cinemagraphs, parallax, product rotation, animated screenshots.]
 
-## 11. Voice In Visual Context
+## 14. Voice In Visual Context
 
 ### Copy + Visual Relationship
 [Does copy explain, provoke, reassure, label, sell, or narrate?]
@@ -189,21 +237,7 @@ Replace bracketed guidance with brand-specific rules. Keep the language concrete
 ### Caption Style
 [How captions support imagery without over-explaining.]
 
-## 12. Do / Don't Rules
-
-### Do
-
-- [Concrete rule]
-- [Concrete rule]
-- [Concrete rule]
-
-### Don't
-
-- [Concrete anti-pattern]
-- [Concrete anti-pattern]
-- [Concrete anti-pattern]
-
-## 13. Quality Bar & Review Checklist
+## 15. Quality Bar & Review Checklist
 
 Before finalizing creative, verify:
 
@@ -214,23 +248,3 @@ Before finalizing creative, verify:
 - Social assets can be understood in under two seconds.
 - Website assets have enough detail and proof to support conversion.
 - The result does not feel like a generic SaaS, generic luxury, or generic AI-generated layout.
-
-## 14. Agent Prompt Guide
-
-When using this file with an agent, say:
-
-```text
-Use this brand creative DESIGN.md as binding art direction. Produce work that follows the visual system, photography rules, social creative rules, website rules, and quality checklist. If a requested asset conflicts with the system, preserve the system and explain the tradeoff.
-```
-
-For social creative:
-
-```text
-Create three paid social static concepts from this DESIGN.md. Each concept should include layout direction, photography direction, headline, supporting copy, CTA, and rationale.
-```
-
-For websites:
-
-```text
-Create a responsive landing page from this DESIGN.md. Use the photography and imagery system to decide hero media, product sections, proof modules, and conversion moments.
-```
