@@ -2,35 +2,24 @@
 
 Unofficial educational example inspired by publicly observable performance-sports creative patterns.
 
-## 1. Brand Position & Creative Thesis
+## 1. Visual Theme & Atmosphere
+
+### Overall Feel
+Bold, physical, minimal, kinetic, confident.
 
 ### Brand Role
 Make human effort feel iconic, immediate, and worth joining.
 
-### Audience
+### Audience Context
 Athletes, everyday movers, competitive personalities, and style-conscious consumers who respond to discipline, energy, and identity.
 
 ### Creative Thesis
 Treat movement as the hero. Every layout should feel like a decisive moment before, during, or after action.
 
-### Brand Tension
-Raw athletic intensity balanced with premium cultural restraint.
-
-## 2. Visual Theme & Atmosphere
-
-### Overall Feel
-Bold, physical, minimal, kinetic, confident.
-
-### Energy Level
-High-energy, but not visually chaotic. The system should feel like a campaign frame, not a sports news page.
-
-### Density
-Sparse to moderate. Use large imagery and short copy. Avoid over-explaining.
-
 ### Signature Moves
 Full-bleed action photography, oversized condensed type, black-white contrast, hard crops, high-impact product moments, and minimal navigation.
 
-## 3. Color Palette & Roles
+## 2. Color Palette & Roles
 
 | Token | Hex | Role |
 |---|---|---|
@@ -46,7 +35,7 @@ Default to black, white, and photographic color. Use accent color sparingly for 
 ### Image + Color Relationship
 Photography carries most color. Interface colors should frame and sharpen the image, not compete with it.
 
-## 4. Typography Rules
+## 3. Typography Rules
 
 ### Type Personality
 Direct, athletic, compressed, declarative.
@@ -66,21 +55,7 @@ Use a bold condensed grotesk for display and a clean sans for body. Avoid delica
 ### Type Over Images
 Place type over areas with strong negative space or use hard black/white blocks. Never obscure the athlete's face, limb extension, or product detail.
 
-## 5. Layout Principles
-
-### Composition
-Use strong vertical and horizontal axes. Let bodies, shoes, and equipment create diagonals. Crop decisively.
-
-### Spacing
-Give images room to dominate. Compress supporting copy into tight blocks.
-
-### Cropping & Framing
-Use hard crops: close on shoes, hands, muscles, fabric, sweat, shadow, or motion. Keep the moment legible.
-
-### Responsive Behavior
-On mobile, prioritize the athlete or product in the top third. Preserve impact before preserving full image context.
-
-## 6. Component Styling
+## 4. Component Stylings
 
 ### Buttons
 Simple solid pills or rectangles in black/white. CTA copy should be short: "Shop", "Join", "Train", "Explore".
@@ -97,7 +72,66 @@ Functional and quiet. Do not let forms soften the campaign energy.
 ### Data / Proof Modules
 Use stats sparingly: speed, weight, distance, material, athlete quote, performance claim.
 
-## 7. Photography & Imagery System
+## 5. Layout Principles
+
+### Composition
+Use strong vertical and horizontal axes. Let bodies, shoes, and equipment create diagonals. Crop decisively.
+
+### Spacing
+Give images room to dominate. Compress supporting copy into tight blocks.
+
+### Cropping & Framing
+Use hard crops: close on shoes, hands, muscles, fabric, sweat, shadow, or motion. Keep the moment legible.
+
+### Page Rhythm
+Alternate campaign-impact sections with product proof and tactile detail.
+
+## 6. Depth & Elevation
+
+### Surface Model
+Mostly flat and high-contrast. Depth should come from photography, scale, and shadow inside the image.
+
+### Shadows / Borders / Dividers
+Avoid decorative shadows. Use hard boundaries, clean product grids, and strong contrast.
+
+### Media Depth
+Use foreground bodies, motion blur, fabric texture, and directional shadows to create physicality.
+
+## 7. Do's and Don'ts
+
+### Do
+
+- Use movement as the primary visual engine.
+- Let product details feel tactile and performance-relevant.
+- Keep copy short and visually loud.
+
+### Don't
+
+- Use generic gym stock photography.
+- Add decorative gradients that soften the system.
+- Overload social assets with explanatory copy.
+
+## 8. Responsive Behavior
+
+### Desktop
+Use full-bleed media, large type, and wide product grids.
+
+### Tablet
+Keep action crops readable and reduce copy density.
+
+### Mobile
+Prioritize the athlete or product in the top third. Preserve impact before preserving full image context.
+
+### Social / Fixed-Format Crops
+For square and vertical crops, make the body, face, or product fill the frame quickly.
+
+## 9. Agent Prompt Guide
+
+```text
+Create performance-led creative from this system. Prioritize full-bleed motion, decisive crops, short declarative type, and product proof. Avoid generic fitness stock imagery.
+```
+
+## 10. Photography & Imagery System
 
 ### Imagery Role
 Photography proves intensity, identity, and motion. It should make the viewer feel close to performance.
@@ -129,7 +163,7 @@ Use only when supporting motion, measurement, or training logic. Keep graphics m
 ### Image Quality Bar
 Every image should imply effort, capability, identity, or product performance.
 
-## 8. Social Creative System
+## 11. Social Creative System
 
 ### Paid Social
 Lead with motion or product closeup. Use one dominant headline, one product or benefit cue, and one CTA.
@@ -146,7 +180,7 @@ Use vertical crops with face, body motion, or product occupying at least half th
 ### Platform Behavior
 TikTok can be more raw and training-led. Instagram can be more campaign-polished. LinkedIn is usually not primary unless discussing innovation or brand impact.
 
-## 9. Website Creative System
+## 12. Website Creative System
 
 ### Hero Sections
 Full-bleed image or video, oversized headline, minimal CTA stack.
@@ -163,7 +197,7 @@ Keep shopping modules clean, direct, and fast.
 ### Galleries
 Use a rhythm of action wide shots, product macros, and human detail.
 
-## 10. Motion & Interaction
+## 13. Motion & Interaction
 
 ### Motion Mood
 Fast, decisive, physical.
@@ -174,7 +208,7 @@ Hover states should feel sharp. Avoid floaty, soft, whimsical motion.
 ### Media Motion
 Short loops, impact moments, fabric movement, product rotation, or training repetition.
 
-## 11. Voice In Visual Context
+## 14. Voice In Visual Context
 
 ### Copy + Visual Relationship
 Copy should punch, not explain. Let imagery carry emotion.
@@ -185,26 +219,6 @@ Short imperatives, declarations, and identity statements.
 ### Caption Style
 Functional, product-aware, and minimal.
 
-## 12. Do / Don't Rules
-
-### Do
-
-- Use movement as the primary visual engine.
-- Let product details feel tactile and performance-relevant.
-- Keep copy short and visually loud.
-
-### Don't
-
-- Use generic gym stock photography.
-- Add decorative gradients that soften the system.
-- Overload social assets with explanatory copy.
-
-## 13. Quality Bar & Review Checklist
+## 15. Quality Bar & Review Checklist
 
 The asset should feel energetic within one second, show either human effort or product performance, and retain strong legibility at mobile size.
-
-## 14. Agent Prompt Guide
-
-```text
-Create performance-led creative from this system. Prioritize full-bleed motion, decisive crops, short declarative type, and product proof. Avoid generic fitness stock imagery.
-```

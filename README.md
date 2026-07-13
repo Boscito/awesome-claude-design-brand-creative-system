@@ -44,24 +44,25 @@ Start here:
 
 - [Brand Creative System Template](templates/BRAND_CREATIVE_SYSTEM.md)
 
-The template includes 14 sections:
+The template keeps the original 9 `DESIGN.md` sections first, then adds a brand creative layer for photography, social, website, motion, voice, and review:
 
 | # | Section | What The Agent Uses It For |
 |---|---|---|
-| 1 | Brand Position & Creative Thesis | The unifying point of view |
-| 2 | Visual Theme & Atmosphere | Mood, density, energy, and restraint |
-| 3 | Color Palette & Roles | Semantic color usage and creative behavior |
-| 4 | Typography Rules | Type hierarchy, rhythm, and expressive limits |
-| 5 | Layout Principles | Composition, spacing, grids, and pacing |
-| 6 | Component Styling | Interface primitives and interaction states |
-| 7 | Photography & Imagery System | Subject matter, composition, lighting, realism, and image treatment |
-| 8 | Social Creative System | Paid social, organic, carousels, stories, thumbnails |
-| 9 | Website Creative System | Heroes, product sections, editorials, proof, galleries |
-| 10 | Motion & Interaction | Transitions, reveals, scroll behavior, motion mood |
-| 11 | Voice In Visual Context | How copy and visuals work together |
-| 12 | Do / Don't Rules | Guardrails for keeping outputs on-system |
-| 13 | Quality Bar & Review Checklist | Criteria for judging finished creative |
-| 14 | Agent Prompt Guide | Reusable instructions for future work |
+| 1 | Visual Theme & Atmosphere | Mood, audience context, creative thesis, and signature moves |
+| 2 | Color Palette & Roles | Semantic color usage and image-color behavior |
+| 3 | Typography Rules | Type hierarchy, rhythm, and expressive limits |
+| 4 | Component Stylings | Interface primitives and interaction states |
+| 5 | Layout Principles | Composition, spacing, crops, and page rhythm |
+| 6 | Depth & Elevation | Surfaces, shadows, dividers, and media depth |
+| 7 | Do's and Don'ts | Guardrails for keeping outputs on-system |
+| 8 | Responsive Behavior | Desktop, tablet, mobile, and fixed-format crops |
+| 9 | Agent Prompt Guide | Reusable instructions for future work |
+| 10 | Photography & Imagery System | Subject matter, composition, lighting, realism, and image treatment |
+| 11 | Social Creative System | Paid social, organic, carousels, stories, thumbnails |
+| 12 | Website Creative System | Heroes, product sections, editorials, proof, galleries |
+| 13 | Motion & Interaction | Transitions, reveals, scroll behavior, motion mood |
+| 14 | Voice In Visual Context | How copy and visuals work together |
+| 15 | Quality Bar & Review Checklist | Criteria for judging finished creative |
 
 ## Example Systems
 
